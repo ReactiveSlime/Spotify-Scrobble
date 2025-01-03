@@ -42,14 +42,14 @@ The frontend is built using PHP, HTML, JavaScript, and CSS, featuring eight main
 1.  Clone the repository:
     
     ```bash
-    git clone https://github.com/yourusername/spotify-scrobbler.git
+    git clone https://github.com/reactiveslime/spotify-scrobble.git
     
     ```
     
 2.  Navigate to the backend directory:
     
     ```bash
-    cd spotify-scrobbler/backend
+    cd spotify-scrobble/backend
     
     ```
     
